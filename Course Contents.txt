@@ -1,0 +1,127 @@
+Basic:
+
+1. Variables, Constants and Comments
+2. DataType
+3. Strings
+4. String Methods
+5. Numbers
+6. Template Strings
+7. Arrays
+8. Null and Undefined
+9. Boolean and Comparisons
+10. Loose and Strict Comparisons
+11. Type Conversion
+
+Control Flow:
+
+1. For Loop
+2. While Loop
+3. Do While Loop
+4. If statements
+5. Else and Else If statements
+6. Logical Operations
+7. Logical Not
+8. Break and Continue
+9. Switch statements
+10. Variables and Block
+
+Functions
+
+1. Function declarations
+2. Function expressions
+3. Arguments and Parameters
+4. Return values
+5. Arrow functions
+6. Function vs Methods
+7. ForEach methods
+8. Callbacks
+9. Callbacks & Actions
+
+Objects
+
+1. Create object
+2. Adding methods
+3. "this" keywords
+4. Objects in Arrays
+5. Math objects
+6. Primitive vs Reference
+
+Java Script Skills:
+
+	Arrays
+	Filters
+	find
+	Map
+	slice
+	split
+	
+
+	
+	
+Tools:
+
+1. Editors (Notepad++, Sublime, VS Code)
+2. NodeJS
+
+
+-------------------------Practice problems -------------------------------------------------
+
+Variables:
+
+1. what is single line comments and multi-line comments
+2. List few Javascript keywords
+3. what is variable declaration
+4. what is variable assignments
+5. what is statements
+6. how javascript statements end
+7. give an example of constant variables and display result
+8. give an example of regular variables and display result
+9. how to comment javascript code
+10. Write a program to add values from two variables and assign the result to the third variable then print the result
+
+
+String and String Methods:
+
+1. Write a program to display "Today is Monday"
+2. Write a program to display the length of "Today is Monday"
+3. Write a program to replace "Monday" to "Tuesday" 
+4. Write a program to display number of words in "Today is Monday"
+5. Write a program to display all characters in lower case of "Today is Monday"
+6. Write a program to display all characters in upper case of "Today is Monday"
+7. Write a program to display character in reverse of "Today" string
+8. Convert string to camel case
+9. Convert string to camel case
+10. Concatenation two string
+
+
+Numbers and Numbers Methods:
+
+1. write a program to add two numbers
+2. write a program to subtract two numbers
+3. write a program to divide two numbers
+4. write a program to multiply two numbers
+5. write a program to display remainder of two numbers
+6. write a program to add numbers with string
+7. write a program to add string with number
+8. write a program to divide number with string
+9. write a program to divide strings with number
+10. write a program to multiply numbers with string
+11. write a program to multiply string with number
+12. write a program to convert numbers to string
+13. write a program to convert string to number
+14. write a program to copy values to new variable and update original variable values then print copied values
+15. write a program to print greeting with template string
+
+
+For Loop:
+1. write a program to greet 10 times
+2. write a program to display all items from an array
+3. write a program to compare two numbers are equals or not using Boolean function
+4. write a program to compare two strings are equals or not using Boolean function
+5. write a program to compare two variable using strict and losely type
+6. write a program to compare two or more expression conditions using && 
+7. write a program to compare two or more expression conditions using ||
+8. write a program to using not (!) on expression 
+9. write a program to display current time 5 times
+10. write a program to convert all the elements in an array to upper case
+	Example: let arr = ["apple", "orange", "mango"]
