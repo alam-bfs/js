@@ -1,6 +1,6 @@
-### Java Script Training 
+## Java Script Training 
 
-## What you need
+### What you need
 
 Before you start coding in JavaScript, you need to have the followings:
 
